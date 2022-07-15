@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elislwilson, a 3rd year BSc Mathetmatics student
 - 👀 I’ve got a primary interest in statistics - especially with a focus on health data science
-- 🌱 I’m currently a 3rd year mathematics student with a primary focus on statistics - looking to pursue a masters in statistics/medical statistics.
+- 🌱 I'm looking to gain experience in the medical statstics / health data science field 
 - 📫 Drop me an email at ew613@exeter.ac.uk 
 
 I have experience with SQL, R, Python and MATLAB and am keen to put this into practice in a practical, data-driven setting. 
