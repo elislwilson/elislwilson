@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @elislwilson, a 3rd year BSc Mathetmatics student
-- 👀 I’ve got a primary interest in statistics - especially with a focus on health data science
-- 🌱 I'm looking to gain experience in the medical statstics / health data science field 
+- 👋 Hi, I’m @elislwilson, studying master's in Statistcs @ Uni of Warwick
+- 🎓 BSc (Hons) in Mathematics from the University of Exeter
+- 👀 Primary interest in medical statistics and clinical trials - particularly in how AI can be used to improve patient outcomes
+- 👨‍💻 E xperience in a development enviroment working on a project with Generative Adversial Networks with applications to medical imaging
+- 🌱 Keen to get invovled with in a graduate role in clinical trials
 - 📫 Drop me an email at elislwilson@gmail.com
 
-I have experience with SQL, R, Python and MATLAB and am keen to put this into practice in a practical, data-driven setting. 
+I've got experience with SQL, R and Python (including pandas and PyTorch).
 
 <!---
 elislwilson/elislwilson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
