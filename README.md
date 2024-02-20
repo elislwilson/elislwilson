@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @elislwilson, studying master's in Statistcs @ Uni of Warwick
+- 👋 Hi, I’m @elislwilson, studying for an MSc Statistcs @ Uni of Warwick
 - 🎓 BSc (Hons) in Mathematics from the University of Exeter
-- 👀 Primary interest in medical statistics and clinical trials - particularly in how AI can be used to improve patient outcomes
-- 👨‍💻 E xperience in a development enviroment working on a project with Generative Adversial Networks with applications to medical imaging
+- 👀 Primary interest in medical statistics and clinical trials - particularly in modern development in experimental design
+- 👨‍💻 Experience in a development enviroment working on a project with Generative Adversial Networks with applications to medical imaging
 - 🌱 Keen to get invovled with in a graduate role in clinical trials
 - 📫 Drop me an email at elislwilson@gmail.com
 
