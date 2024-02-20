@@ -5,7 +5,6 @@
 - 🌱 Keen to get invovled with in a graduate role in clinical trials
 - 📫 Drop me an email at elislwilson@gmail.com
 
-I've got experience with SQL, R and Python (including pandas and PyTorch).
 
 <!---
 elislwilson/elislwilson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
