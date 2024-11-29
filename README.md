@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @elislwilson, studying for an MSc Statistcs @ Uni of Warwick
-- 🎓 BSc (Hons) in Mathematics from the University of Exeter
-- 👀 Primary interest in medical statistics and clinical trials - particularly in modern development in experimental design
-- 👨‍💻 Experience in a development enviroment working on a project with Generative Adversial Networks with applications to medical imaging
-- 📫 Drop me an email at elislwilson@gmail.com
+Elis is a Research Assistant in the Medical Statistics group at the University of Plymouth, where he supports the Down Syndrome Screening Quality Assurance Support Service (DQASS) and contributes to clinical trials, statistical clinics, and teaching.
+
 
 
 <!---
